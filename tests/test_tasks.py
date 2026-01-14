@@ -1,4 +1,4 @@
-from app import create_task
+from src.app import create_task
 
 def test_create_task():
     task = create_task("Estudar Engenharia de Software", "Alta")
