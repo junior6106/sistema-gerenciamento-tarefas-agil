@@ -39,6 +39,21 @@ Durante o desenvolvimento do projeto, foi identificada a necessidade de permitir
 que as tarefas possuam status dinâmico, como "To Do" e "In Progress", para melhor
 acompanhamento do fluxo de trabalho da equipe.
 
+
+## Mudança de Escopo
+
+Durante o desenvolvimento do projeto, foi identificada a necessidade de realizar
+uma mudança de escopo, simulando um cenário comum em projetos ágeis.
+
+Inicialmente, o sistema previa apenas o cadastro básico de tarefas. No entanto,
+foi adicionada a funcionalidade de definição de prioridade das tarefas, permitindo
+melhor organização e tomada de decisão pela equipe.
+
+Essa alteração foi registrada no quadro Kanban do GitHub Projects e implementada
+por meio de novos commits, demonstrando a flexibilidade da metodologia ágil
+adotada no projeto.
+
+
 Essa mudança foi registrada no Kanban do GitHub e implementada de forma incremental,
 seguindo os princípios das metodologias ágeis.
  
