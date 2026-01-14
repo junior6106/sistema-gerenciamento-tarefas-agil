@@ -32,3 +32,13 @@ Essa mudança foi registrada no Kanban e implementada no código.
 ## ▶️ Como Executar o Projeto
 1. Clone o repositório
 2. Execute o arquivo principal do sistema
+
+## 🔄 Mudança de Escopo
+
+Durante o desenvolvimento do projeto, foi identificada a necessidade de permitir
+que as tarefas possuam status dinâmico, como "To Do" e "In Progress", para melhor
+acompanhamento do fluxo de trabalho da equipe.
+
+Essa mudança foi registrada no Kanban do GitHub e implementada de forma incremental,
+seguindo os princípios das metodologias ágeis.
+ 
