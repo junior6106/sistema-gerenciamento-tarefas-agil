@@ -1,6 +1,7 @@
-def create_task(title, priority):
+def create_task(title, priority, status="To Do"):
     return {
         "title": title,
         "priority": priority,
-        "status": "To Do"
+        "status": status
     }
+
